@@ -19,9 +19,7 @@ I'm passionate about data, algorithms and problem solving.
 - 💼 Currently working as a **Data Analyst**.
 - 💡 I’m interested in all things data: **Data Vizualization, Big Data, Machine Learning and Data Science**.
 
-#### 📫 Reach me at:
-
-- **Website**: [helderpsilva.github.io](https://helderpsilva.github.io)
+#### 📫 Reach me at: [helderpsilva.github.io](https://helderpsilva.github.io)
 
 
 <!---
